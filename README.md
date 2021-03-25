@@ -14,7 +14,7 @@ First, add `guardian_firebase` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [{:guardian_firebase, "~> 0.1.0"}]
+  [{:guardian_firebase, "~> 1.0"}]
 end
 ```
 
